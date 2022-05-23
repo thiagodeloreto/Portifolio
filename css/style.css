@@ -405,7 +405,7 @@ li {
 }
 
 .control .colors span:nth-child(1) {
-  background-color: var(--cyan);
+  background-color: var(--blue);
 }
 
 .control .colors span:nth-child(2) {
@@ -417,7 +417,11 @@ li {
 }
 
 .control .colors span:nth-child(4) {
-  background-color: var(--blue);
+  background-color: var(--cyan);
+}
+
+.control .colors span:nth-child(5) {
+  background-color: var(--light);
 }
 
 
@@ -542,7 +546,7 @@ a.btn:active,
   }
 }
 
-/* Serives */
+/* Services */
 
 .theme {
   background-color: #000;
@@ -603,7 +607,7 @@ a.btn:active,
 }
 
 .skills-box h4 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   color: #888;
   font-weight: 500;
 }
